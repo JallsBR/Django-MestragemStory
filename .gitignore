@@ -1,0 +1,5 @@
+venv/
+.dist/
+notation.txt
+passos.txt
+__pycache__/
